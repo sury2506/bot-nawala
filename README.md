@@ -1,2 +1,3 @@
 # bot-nawala
 hancok
+sempak
